@@ -3,7 +3,7 @@
 ```bash
    Rental Store Movie
 ```
-## About Project
+# About Project
 <p> Aflame  is a rental store movie website provide some forms let you manage your customers and movies which is rented.</p>
 
 ### Technologies used:
